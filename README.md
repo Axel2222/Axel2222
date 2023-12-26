@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm part of the amazing team at [Nolag Development](https://store.nolag.dev), where we're passionate about creating innovative solutions and pushing the boundaries of technology.
+I'm part of the amazing team at [Nolag Development](https://github.com/NoLag-Development), where we're passionate about creating innovative solutions and pushing the boundaries of technology.
 
 #### Support Me
 Love my work? You can support me by buying me a pizza! 🍕
