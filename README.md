@@ -31,7 +31,3 @@ I enjoy mixing back-end logic with front-end flavor — whether it’s optimizin
 ### 📬 Connect with me
 - **Discord:** `axel2222`  
 - **Email:** `svetlinvass@gmail.com`
-
----
-
-⭐ Fun fact: I turn coffee ☕ into Lua scripts and React components. 
