@@ -23,8 +23,8 @@ I enjoy mixing back-end logic with front-end flavor — whether it’s optimizin
 ---
 
 ### 📊 GitHub Vibes
-![Svetlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Svetlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axel2222&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel2222&layout=compact&theme=radical)
 
 ---
 
