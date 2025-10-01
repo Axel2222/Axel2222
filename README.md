@@ -1,12 +1,37 @@
-### Hi there 👋
+# Hey there 👋 I'm Svetlin (aka Axel)
 
-I'm part of the amazing team at [Nolag Development](https://github.com/NoLag-Development), where we're passionate about creating innovative solutions and pushing the boundaries of technology.
+### 🚀 FiveM Developer | TeamsGG Crew
 
-#### Support Me
-Love my work? You can support me by buying me a pizza! 🍕
+I'm a **FiveM developer** with years of experience bringing immersive roleplay systems to life.  
+Currently part of the [TeamsGG](https://teamsgg.dev) dev team, where we push the limits of GTA V roleplay servers.  
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/Axel2222" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
+---
 
-<!-- Add more about yourself, your projects, and your achievements -->
+### 🛠️ What I Work With
+- **Core:** Lua, React  
+- **Also played with:** PHP, MySQL, JavaScript, CSS, Laravel, and more  
+
+I enjoy mixing back-end logic with front-end flavor — whether it’s optimizing performance in Lua or building slick UIs in React.
+
+---
+
+### 🎮 What drives me
+- Building stuff that makes roleplay servers more fun & engaging  
+- Clean and optimized code (no lag vibes 😎)  
+- Constantly learning new tech and improving existing systems  
+
+---
+
+### 📊 GitHub Vibes
+![Svetlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📬 Connect with me
+- **Discord:** `axel2222`  
+- **Email:** `svetlinvass@gmail.com`
+
+---
+
+⭐ Fun fact: I turn coffee ☕ into Lua scripts and React components. 
